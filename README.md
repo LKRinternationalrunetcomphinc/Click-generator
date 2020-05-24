@@ -9,7 +9,7 @@
 <p>Install the necessary additions</p>
 <code>$ pip install keyboard</code></br>
 <code>$ pip install mouse</code></br>
-<p>Clone repository:</p>
+<p>Clone repository</p>
 <code>git clone https://github.com/JoHn-111/autoclicker</code></br>
 <p>Go to the program directiry:</p>
 <code>$ cd autoclicker</code>
@@ -20,7 +20,7 @@
 <p>Install the necessary additions</p>
 <code>pip3 install keyboard</code></br>
 <code>pip3 install mouse</code></br>
-<p>Clone repository:</p>
+<p>Clone repository</p>
 <code>git clone https://github.com/JoHn-111/autoclicker</code></br>
 <p>Go to the program directiry:</p>
 <code>cd autoclicker</code>
