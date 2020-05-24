@@ -13,6 +13,9 @@
 <h3>Теперь скачаем утилиту:</h3>
 <code>git clone https://github.com/JoHn-111/autoclicker</code></br>
 <h3>Приступаем к запуску:</h3>
-<code>cd autoclicker</code></br>
+<code>cd autoclicker</code>
+<h3>Для Windows:</h3>
+<code>python autoclicker.py</code></br>
+<h3>Для Линукс:</h3>
 <code>python3 autoclicker.py</code></br></br>
 <p>Дальше следуйте инструкциям в самой утилите.</p>
