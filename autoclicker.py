@@ -43,7 +43,7 @@ def clicker():
 	global i
 	while i < cclick:
 		time.sleep(mytime)
-		m.double_click(button ='left')
+		m.click(button ='left')
 		i += 1
 		
 		if i == cclick:
