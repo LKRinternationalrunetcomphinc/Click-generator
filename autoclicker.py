@@ -46,19 +46,11 @@ def clicker():
 		m.double_click(button ='left')
 		i += 1
 		
-		if k.is_pressed(stop):
+		if i == cclick:
 			quit()	
 		elif k.is_pressed(stop):
-			quit()
-		else:
 			quit()
 
 while True:
 	if k.is_pressed(start):
 		clicker()
-
-if __name__ == '__main__':
-	clear ()
-	main()
-
-
